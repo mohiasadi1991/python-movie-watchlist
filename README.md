@@ -1,5 +1,5 @@
 
-import jso
+import json
 from pathlib import Path
 
 FILE = Path("movies.json")
